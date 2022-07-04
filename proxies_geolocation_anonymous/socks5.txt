@@ -1,0 +1,2 @@
+194.67.66.21:1::Russia::Leningrad Oblast::Kirovsk
+203.153.36.37:7497::India::Karnataka::Dasarahalli
